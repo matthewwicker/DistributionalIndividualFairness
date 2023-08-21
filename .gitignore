@@ -1,0 +1,12 @@
+./data/
+/data/
+data/
+./Folktables/lightning_logs/
+./Folktables/FolkModels/
+./Folktables/EmployModels/
+./Folktables/CoverageModels/
+./Folktables/CreditModels/
+./Folktables/GermanModels/
+Folktables/lightning_logs/*
+Folktables/lightning_logs/
+
